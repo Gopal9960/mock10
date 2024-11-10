@@ -1,2 +1,4 @@
 # mock10
-Gopal Jagtap
+Hello github users, 
+It's my first github repository..!
+
